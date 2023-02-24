@@ -1,0 +1,14 @@
+.container { 
+    display: block;
+    background-color: aliceblue;
+    width: 80%;
+    height: 100%;
+    margin-left: 10%;
+    min-height: calc(100vh - 150vh );
+    margin-top: 10px;
+    text-align: center;
+    line-height: 15px;
+    -webkit-box-shadow: 6px 6px 5px 0px rgba(130, 36, 168, 1); 
+    -moz-box-shadow: 6px 6px 5px 0px rgba(130, 36, 168, 1); 
+    box-shadow: 6px 6px 5px 0px rgba(130, 36, 168, 1); 
+}
